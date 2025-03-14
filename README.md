@@ -3,7 +3,7 @@
 👀 I’m interested in creating intuitive and responsive user interfaces
 🌱 I’m currently learning advanced frontend frameworks like React and improving my skills in UI/UX design
 💞️ I’m looking to collaborate on exciting web development projects, especially those that challenge creativity and performance optimization
-📫 How to reach me: https://bit.ly/Ebesoh-Adrian
+📫 How to reach me:(https://ebesoh-adrian-portfolio.netlify.app/)
 
 ⚡ Fun fact: I love turning complex ideas into seamless, user-friendly web experiences and enjoy exploring the latest design trends in my free time!
 
